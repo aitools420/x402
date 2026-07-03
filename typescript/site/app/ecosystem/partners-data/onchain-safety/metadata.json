@@ -1,0 +1,7 @@
+{
+  "name": "Onchain Safety",
+  "category": "Services/Endpoints",
+  "logoUrl": "/logos/onchain-safety.svg",
+  "description": "Multi-chain token-safety for AI agents: rug/honeypot verdicts, exit-safety, wallet reputation, and AI-incident lookups — pay-per-call via x402 across PulseChain, Monad, Base, and BSC",
+  "websiteUrl": "https://onchain.wick.pics"
+}
